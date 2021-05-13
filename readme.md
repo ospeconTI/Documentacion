@@ -88,7 +88,7 @@ La Aplicación es la capa que conecta el dominio con el mundo exterior. Contiene
 La Infraestructura son todos aquellos servicios externos al nuestro. Por ejemplo para persistir los datos, mandar mails, enviar mensajes a otros servicios, etc.  
 El separar las capas de esta manera nos da la libertad de adaptarnos rápidamente a cambios en la tecnología o el negocio, testear nuestro código y escalarlo rápidamente.
 
-![./images/hexagonal.png](./images/hexagonal.png)
+![./images/hexagonal.png](./images/Hexagonal.png)
 
 <br>
 <br>
